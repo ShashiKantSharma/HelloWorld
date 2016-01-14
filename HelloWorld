@@ -1,0 +1,9 @@
+package com.shashi.springcore.helloworld.in_xml_version.beans
+
+public class HelloWorld{
+  private String userMessage;
+  
+  public void setUserMessage(){
+  
+  
+}
